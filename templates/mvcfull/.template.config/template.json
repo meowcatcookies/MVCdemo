@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "JOE",
+  "classifications": [
+    "C#",
+    "MVC"
+  ],
+  "identity": "mvc.full.8.Template",
+  "name": "ASP.NET Core MVC C# 完整版 .net8.0",
+  "shortName": "mvcfull8",
+  "sourceName": "mvcfull8",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

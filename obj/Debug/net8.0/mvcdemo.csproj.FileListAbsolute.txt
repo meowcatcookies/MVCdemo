@@ -1,0 +1,9 @@
+C:\D\vs2022\mvcdemo\obj\Debug\net8.0\mvcdemo.csproj.AssemblyReference.cache
+C:\D\vs2022\mvcdemo\obj\Debug\net8.0\mvcdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\vs2022\mvcdemo\obj\Debug\net8.0\mvcdemo.AssemblyInfoInputs.cache
+C:\D\vs2022\mvcdemo\obj\Debug\net8.0\mvcdemo.AssemblyInfo.cs
+C:\D\vs2022\mvcdemo\obj\Debug\net8.0\mvcdemo.csproj.CoreCompileInputs.cache
+C:\D\vs2022\mvcdemo\obj\Debug\net8.0\mvcdemo.MvcApplicationPartsAssemblyInfo.cs
+C:\D\vs2022\mvcdemo\obj\Debug\net8.0\mvcdemo.MvcApplicationPartsAssemblyInfo.cache
+C:\D\vs2022\mvcdemo\obj\Debug\net8.0\mvcdemo.RazorAssemblyInfo.cache
+C:\D\vs2022\mvcdemo\obj\Debug\net8.0\mvcdemo.RazorAssemblyInfo.cs
